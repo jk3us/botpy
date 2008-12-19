@@ -1,0 +1,6 @@
+REQUIREMENTS
+
+1. python
+2. xmpppy library
+3. pyxml library
+3. sqlite3 and pysqlite

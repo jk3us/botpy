@@ -1,0 +1,10 @@
+TODO
+----
+
+* Command-line ad-hoc commands (http://www.jabber.org/jeps/jep-0050.html)
+* General purpose Pub-sub browse/subscribe (http://www.jabber.org/jeps/jep-0060.html)
+* weather->presence/pubsub
+* stocks->pubsub
+* system monitor->pubsub
+* mpd conroller bot
+* Give setstatus default values (from status="executing" form)
